@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/0dbc06c8-a38d-4dd8-ac17-c04a03f9332c" />
+</p>
 <div align="center">
 
 # Minhajul Islam
