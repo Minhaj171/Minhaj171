@@ -1,14 +1,16 @@
 <div align="center">
 
 # Minhajul Islam
-### Software Engineer | Android · Flutter · Web · AI-Powered Applications
+### Software Engineer | Android · iOS · Flutter · Web · AI-Powered Applications
 📍 Dhaka, Bangladesh
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
@@ -25,10 +27,11 @@ thousands of real users — from ISP billing systems to AI-powered interview pla
 I take projects end-to-end: architecture, development, deployment, and post-launch
 iteration based on real user feedback.
 
-I stay current with modern Android and mobile development practices — Kotlin,
-Jetpack Compose, clean architecture, offline-first design — and I'm actively
-applying AI/LLM integration into production workflows, from facial recognition
-to AI-driven interview assessment and scoring systems.
+I work across mobile and backend platforms — native Android (Kotlin/Java), iOS,
+Flutter, and .NET/C# — and stay current with modern practices like Jetpack Compose,
+clean architecture, and offline-first design. I'm also actively applying AI/LLM
+integration into production workflows, from facial recognition to AI-driven
+interview assessment and scoring systems.
 
 I care about reliability as much as features: my apps use precision-safe financial
 calculations (BigDecimal), offline-first data storage, and are built to hold up
